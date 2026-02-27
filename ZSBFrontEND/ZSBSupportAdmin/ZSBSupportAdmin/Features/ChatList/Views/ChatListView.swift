@@ -17,7 +17,7 @@ struct ChatListView: View {
                             Text(String(chat.displayName.prefix(1)))
                         )
                     VStack(alignment: .leading) {
-                        Text(chat.customerEmail)
+                        Text(chat.displayName)
                             .font(.headline)
 
                         Text(chat.messages.last?.text ?? "")

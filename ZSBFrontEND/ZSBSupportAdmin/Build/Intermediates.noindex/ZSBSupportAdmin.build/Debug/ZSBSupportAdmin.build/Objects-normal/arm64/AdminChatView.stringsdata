@@ -1,0 +1,24 @@
+{
+  "source": "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/ZSBSupportAdmin/Features/ChatDetails/Views/AdminChatView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Type message...",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 52
+        }
+      }
+    ]
+  },
+  "version": 1
+}

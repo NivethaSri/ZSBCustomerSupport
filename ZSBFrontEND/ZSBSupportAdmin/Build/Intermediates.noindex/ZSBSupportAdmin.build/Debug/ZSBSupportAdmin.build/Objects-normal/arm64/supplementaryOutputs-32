@@ -1,0 +1,23 @@
+{
+  "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/ZSBSupportAdmin/Core/Network/Endpoints.swift" : {
+    "const-values" : "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/Endpoints.swiftconstvalues",
+    "dependencies" : "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/Endpoints.d",
+    "diagnostics" : "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/Endpoints.dia",
+    "object" : "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/Endpoints.o",
+    "swift-dependencies" : "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/Endpoints.swiftdeps"
+  },
+  "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/ZSBSupportAdmin/Features/ChatDetails/Views/Components/ChatBubble.swift" : {
+    "const-values" : "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/ChatBubble.swiftconstvalues",
+    "dependencies" : "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/ChatBubble.d",
+    "diagnostics" : "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/ChatBubble.dia",
+    "object" : "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/ChatBubble.o",
+    "swift-dependencies" : "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/ChatBubble.swiftdeps"
+  },
+  "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/ZSBSupportAdmin/Item.swift" : {
+    "const-values" : "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/Item.dia",
+    "object" : "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/Item.swiftdeps"
+  }
+}

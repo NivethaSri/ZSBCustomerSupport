@@ -1,0 +1,40 @@
+{
+  "source": "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/ZSBSupportAdmin/Features/Auth/Views/AdminLoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Admin Login",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Password",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Login",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 29
+        }
+      }
+    ]
+  },
+  "version": 1
+}

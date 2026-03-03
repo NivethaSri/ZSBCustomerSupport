@@ -10,6 +10,10 @@ def build_rag(vectorstore):
     llm = ChatOpenAI(temperature=0)
     qa_chain = RetrievalQA.from_chain_type(
         llm=llm,
-        retriever=vectorstore.as_retriever()
+    retriever = vectorstore.as_retriever(
+    search_type="mmr",
+    search_kwargs={"k": 6})  
     )
+    
+    
     return qa_chain

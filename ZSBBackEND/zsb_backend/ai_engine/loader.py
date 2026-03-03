@@ -7,7 +7,7 @@ from langchain.chains import RetrievalQA
 from pathlib import Path
 
 def load_documents():
-    path = Path("ai_engine/documents/zsb_uninstall_manual.pdf")
+    path = Path("ai_engine/documents/zsb_printer_tools_guide.pdf")
     loader = PyPDFLoader(str(path))
     documents = loader.load()
     return documents

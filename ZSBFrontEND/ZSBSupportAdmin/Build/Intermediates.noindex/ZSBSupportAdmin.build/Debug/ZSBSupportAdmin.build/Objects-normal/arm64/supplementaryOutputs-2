@@ -1,0 +1,23 @@
+{
+  "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/ZSBSupportAdmin/App/ZSBSupportAdminApp.swift" : {
+    "const-values" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/ZSBSupportAdminApp.swiftconstvalues",
+    "dependencies" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/ZSBSupportAdminApp.d",
+    "diagnostics" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/ZSBSupportAdminApp.dia",
+    "object" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/ZSBSupportAdminApp.o",
+    "swift-dependencies" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/ZSBSupportAdminApp.swiftdeps"
+  },
+  "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/ZSBSupportAdmin/Core/Network/APIClient.swift" : {
+    "const-values" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/APIClient.swiftconstvalues",
+    "dependencies" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/APIClient.d",
+    "diagnostics" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/APIClient.dia",
+    "object" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/APIClient.o",
+    "swift-dependencies" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/APIClient.swiftdeps"
+  },
+  "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/ZSBSupportAdmin/Core/Network/Endpoints.swift" : {
+    "const-values" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/Endpoints.swiftconstvalues",
+    "dependencies" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/Endpoints.d",
+    "diagnostics" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/Endpoints.dia",
+    "object" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/Endpoints.o",
+    "swift-dependencies" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/Endpoints.swiftdeps"
+  }
+}

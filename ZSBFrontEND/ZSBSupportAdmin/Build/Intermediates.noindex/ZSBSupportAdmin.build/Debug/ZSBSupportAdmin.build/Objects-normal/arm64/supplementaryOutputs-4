@@ -1,0 +1,23 @@
+{
+  "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/ZSBSupportAdmin/Features/Auth/Models/LoginRequest.swift" : {
+    "const-values" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/LoginRequest.swiftconstvalues",
+    "dependencies" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/LoginRequest.d",
+    "diagnostics" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/LoginRequest.dia",
+    "object" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/LoginRequest.o",
+    "swift-dependencies" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/LoginRequest.swiftdeps"
+  },
+  "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/ZSBSupportAdmin/Features/Auth/Models/LoginResponse.swift" : {
+    "const-values" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/LoginResponse.swiftconstvalues",
+    "dependencies" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/LoginResponse.d",
+    "diagnostics" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/LoginResponse.dia",
+    "object" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/LoginResponse.o",
+    "swift-dependencies" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/LoginResponse.swiftdeps"
+  },
+  "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/ZSBSupportAdmin/Features/Auth/Services/AdminAuthService.swift" : {
+    "const-values" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/AdminAuthService.swiftconstvalues",
+    "dependencies" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/AdminAuthService.d",
+    "diagnostics" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/AdminAuthService.dia",
+    "object" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/AdminAuthService.o",
+    "swift-dependencies" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/Build/Intermediates.noindex/ZSBSupportAdmin.build/Debug/ZSBSupportAdmin.build/Objects-normal/arm64/AdminAuthService.swiftdeps"
+  }
+}

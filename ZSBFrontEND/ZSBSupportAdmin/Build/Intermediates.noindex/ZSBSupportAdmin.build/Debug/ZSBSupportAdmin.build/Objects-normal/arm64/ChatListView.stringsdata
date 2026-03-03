@@ -1,5 +1,5 @@
 {
-  "source": "/Users/nivetha.m/Documents/GitHub/Internal_projects/ZSBSupportAdmin/ZSBSupportAdmin/Features/ChatList/Views/ChatListView.swift",
+  "source": "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBSupportAdmin/ZSBSupportAdmin/Features/ChatList/Views/ChatListView.swift",
   "tables": {
     "Localizable": [
       {
@@ -7,7 +7,7 @@
         "key": "Chats",
         "location": {
           "startingColumn": 30,
-          "startingLine": 35
+          "startingLine": 29
         }
       },
       {
@@ -15,7 +15,7 @@
         "key": "Select a chat",
         "location": {
           "startingColumn": 22,
-          "startingLine": 47
+          "startingLine": 39
         }
       }
     ]

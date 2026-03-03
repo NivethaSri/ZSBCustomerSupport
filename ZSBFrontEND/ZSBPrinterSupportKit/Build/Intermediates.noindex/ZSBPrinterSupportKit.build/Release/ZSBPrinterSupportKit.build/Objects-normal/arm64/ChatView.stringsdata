@@ -1,0 +1,32 @@
+{
+  "source": "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBPrinterSupportKit/ZSBPrinterSupportKit/Features/Chat/Views/ChatView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Welcome to ZSB Customer Support",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Type your issue...",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 45
+        }
+      }
+    ]
+  },
+  "version": 1
+}

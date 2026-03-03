@@ -1,0 +1,12 @@
+{
+  "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBPrinterSupportKit/ZSBPrinterSupportKit/App/ZSBPrinterSupportKitApp.swift" : {
+    "abi-baseline-json" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBPrinterSupportKit/Build/Intermediates.noindex/ZSBPrinterSupportKit.build/Release/ZSBPrinterSupportKit.build/Objects-normal/arm64/ZSBPrinterSupportKit.abi.json",
+    "const-values" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBPrinterSupportKit/Build/Intermediates.noindex/ZSBPrinterSupportKit.build/Release/ZSBPrinterSupportKit.build/Objects-normal/arm64/ZSBPrinterSupportKit-primary.swiftconstvalues",
+    "dependencies" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBPrinterSupportKit/Build/Intermediates.noindex/ZSBPrinterSupportKit.build/Release/ZSBPrinterSupportKit.build/Objects-normal/arm64/ZSBPrinterSupportKit-primary.d",
+    "diagnostics" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBPrinterSupportKit/Build/Intermediates.noindex/ZSBPrinterSupportKit.build/Release/ZSBPrinterSupportKit.build/Objects-normal/arm64/ZSBPrinterSupportKit-primary.dia",
+    "objc-header" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBPrinterSupportKit/Build/Intermediates.noindex/ZSBPrinterSupportKit.build/Release/ZSBPrinterSupportKit.build/Objects-normal/arm64/ZSBPrinterSupportKit-Swift.h",
+    "swiftdoc" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBPrinterSupportKit/Build/Intermediates.noindex/ZSBPrinterSupportKit.build/Release/ZSBPrinterSupportKit.build/Objects-normal/arm64/ZSBPrinterSupportKit.swiftdoc",
+    "swiftmodule" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBPrinterSupportKit/Build/Intermediates.noindex/ZSBPrinterSupportKit.build/Release/ZSBPrinterSupportKit.build/Objects-normal/arm64/ZSBPrinterSupportKit.swiftmodule",
+    "swiftsourceinfo" : "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBPrinterSupportKit/Build/Intermediates.noindex/ZSBPrinterSupportKit.build/Release/ZSBPrinterSupportKit.build/Objects-normal/arm64/ZSBPrinterSupportKit.swiftsourceinfo"
+  }
+}

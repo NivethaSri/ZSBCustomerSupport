@@ -1,0 +1,16 @@
+{
+  "source": "/Users/nivetha.m/Documents/GitHub/ZSBCustomerSupport/ZSBFrontEND/ZSBPrinterSupportKit/ZSBPrinterSupportKit/Features/Home/SupportHomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Welcome to ZSB Customer Support",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 12
+        }
+      }
+    ]
+  },
+  "version": 1
+}

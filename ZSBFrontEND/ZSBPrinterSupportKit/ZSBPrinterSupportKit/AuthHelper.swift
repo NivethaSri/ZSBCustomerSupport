@@ -198,6 +198,7 @@ func attachLog(
 
     request.httpBody = body
 
+    
     URLSession.shared.dataTask(with: request) { data, response, error in
         DispatchQueue.main.async {   // 🔑 THIS WAS MISSING
             
@@ -205,7 +206,6 @@ func attachLog(
                 completion(false, error.localizedDescription)
                 return
             }
-            
             guard let httpResponse = response as? HTTPURLResponse else {
                 completion(false, "Invalid response")
                 return
